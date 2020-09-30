@@ -6,3 +6,6 @@ Nuclei is used to send requests across targets based on a template leading to ze
 # Requirments
 
 https://github.com/projectdiscovery/nuclei.git
+need more than this
+git clone
+git bash
